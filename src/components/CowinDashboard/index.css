@@ -1,0 +1,17 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.bg-container {
+  background-color: #1c1c2b;
+  padding: 10px;
+}
+.logo {
+  height: 50px;
+}
+.cowin-heading {
+  font-size: 16px;
+  color: greenyellow;
+}
+.description {
+  font-size: 24px;
+  color: #ffffff;
+}
